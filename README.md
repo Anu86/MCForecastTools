@@ -4,3 +4,6 @@ Plugin the crypto wallet & details on stocks & bonds( SPY & AGG), the applicatio
 It displays a pie chart for your portfolio. 
 It uses Alpaca ADK to get closing prices for SPY & AGG.
 It simulates 30 year Monte Carlo simulation for 60% for SPY & 40% AGG and calculates the lower & upper cumulative return with 95% confidence. Then checks returns for 10 year simulation with 80% SPY & 20% AGG . 
+
+---
+Please add the API key in SAMPLE.csv to run the code.
